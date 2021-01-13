@@ -1,0 +1,2689 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "eec55702-558a-11eb-ab3f-18568008bd2a",
+    "deck_config_uuid": "eec57df9-558a-11eb-9144-18568008bd2a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "eec57df9-558a-11eb-9144-18568008bd2a",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    20.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 2,
+                "mult": 0.7
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    15.0,
+                    14400.0,
+                    8640.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    15,
+                    60,
+                    0
+                ],
+                "order": 0,
+                "perDay": 40
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 90,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-00aa38f2a87a494cfc3b8ff2c295c429aac3f0f1.jpg",
+        "paste-010dc6fa3432283120399ba0fe88abeab5df55f6.jpg",
+        "paste-01693d165e48c2f8195d321e5a9ed5c48ba1c4bc.jpg",
+        "paste-02cc4c00e5847049f1670f5ddd21cfd36f557d4e.jpg",
+        "paste-05bbaf71f3b5b8641a8140e7c7cf337e21524144.jpg",
+        "paste-05f54ad6fffa288bedfc6a80cf236d724f8539b3.jpg",
+        "paste-091c1ddd5fe3d2315ddedcda22dd0c1e463472b0.jpg",
+        "paste-0982f86442e33a44b57f1f4f1c8f846356f7388d.jpg",
+        "paste-0a3fbcc03fd636ebbe64d5d25993ba9bea780266.jpg",
+        "paste-0a55b11f3f3d7a664f5bfa4aac8e2a4bd30b5735.jpg",
+        "paste-0b91e0a30a7ab25f86af344bb2fa1b84c6c89350.jpg",
+        "paste-0b928f76f953fb6fb5f270bf4d5571860b7848e0.jpg",
+        "paste-0b94f32d594722f07b2be6a1a3a44a5a1ea62268.jpg",
+        "paste-0d5a2cc7a5ea82eea91d63e932fbdbb3e7e500df.jpg",
+        "paste-0f54db36e5328ef75990c7079211ce79af0c1a57.jpg",
+        "paste-0f873a4eb199affb81c00b9a98af65a4ab466afc.jpg",
+        "paste-11a704a01f88068745cf4cc1a8e615c0161e5421.jpg",
+        "paste-12a48fe66e2e7776bd58114bb3bf46525f5e5789.jpg",
+        "paste-13bea9a0e74cf0d5ad5ca1a872ab026dd59bcb71.jpg",
+        "paste-185306ea8485c4d0661de7748e538e56793c2cd1.jpg",
+        "paste-1d77c2878b62a82edd8d951801aee021470298d4.jpg",
+        "paste-1e862ce278e73f890d10953142026aef043907ee.jpg",
+        "paste-1e9cba353676cdd94178eecd01e2aaea09665243.jpg",
+        "paste-1e9e27531f83f45fa42a306c19d0dcb49e70c76d.jpg",
+        "paste-220d5ab73c24f585237b38795b6ee48e1847c444.jpg",
+        "paste-23ec4632e6d5e00522b109d559b1c88f30ccf592.jpg",
+        "paste-24a5533f77c8c28d031d7fc84a97005433114c80.jpg",
+        "paste-2570c38495d67dd2c12902ac07780e11f26f756d.jpg",
+        "paste-25940f3df8cf9d49265e41be7fe903fca358d50d.jpg",
+        "paste-28f44efdf0357d045ee48d8ab1f2535b78a76924.jpg",
+        "paste-2af7783374fe89bd104efff8d4f323b714b3312e.jpg",
+        "paste-2b4aa38e4323ec50a10f62ff75557dce2b3a62f2.jpg",
+        "paste-2c4209652c6a0781c7b3d2c8adc1d6be3e0a6a8c.jpg",
+        "paste-2c4b148f2efcd76a13226ef1f13f5938ce2ad55b.jpg",
+        "paste-2ca6b1eee672e50b7c43b32b53e902911cffaddf.jpg",
+        "paste-2d80adc44bf2fc0ba658c9c7a40391780335fcbe.jpg",
+        "paste-2dec3d44d3ae761e928554c4b03d15ef0fbd33f0.jpg",
+        "paste-2fa14d36a9a89aa108505a0a61033d120afceda3.jpg",
+        "paste-321c4de330ca60c23429f489972ed4437c6df502.jpg",
+        "paste-325a5ff397ea64d2d343bc4ba5e8d9412b1fe6ae.jpg",
+        "paste-338b59bd4c66a27a393162985724caf79cf001cf.jpg",
+        "paste-33f1e41f7f0ee7863b3b3ae1a29564ee6d1e11c5.jpg",
+        "paste-34c84516750dff0f041e72abae7228d1d83c6944.jpg",
+        "paste-3524be5da916ce806937232040da8fbbd9d0d402.jpg",
+        "paste-3545accf35d4213be1d642b94adca62af9fc3b72.jpg",
+        "paste-37de4056614ce5a1d22a21159c68b212c11ee2da.jpg",
+        "paste-396ad13d9937b25a993f94be4afdbf7372845e18.jpg",
+        "paste-3a795d33419c771fde59a31bb8e5cb92f6e77df2.jpg",
+        "paste-3f07ae0af190b242b3dca17a837917185911c786.jpg",
+        "paste-42f986409509396b8486c190265632df1f729c0b.jpg",
+        "paste-430399cf56037cdbaa44feb741bcfb5f9ca8f5e7.jpg",
+        "paste-4460dc97bce9ae70d44ee13aa11329ea96a504a9.jpg",
+        "paste-45ca298e9f2b2996ad09f5d31bae9cd0e4597226.jpg",
+        "paste-46aeaaefb4e769fab0fffc0d5a722dab076fec1b.jpg",
+        "paste-47257321db2e01ea2c7e076963dd6cf1521017d1.jpg",
+        "paste-49955efb7953093d21552ba688fc3f8567696789.jpg",
+        "paste-4a693b1e61f96ed0bf17b79e7186def14bb0cfd1.jpg",
+        "paste-4b4da5d2e217f264edc9b7824a3f966fe8fbd83a.jpg",
+        "paste-4bbbfdd73b1a152f7e47639ea03d4aa2b927bb87.jpg",
+        "paste-4c633678413a2089b195ada1aad977cb2bb6b56e.jpg",
+        "paste-4d2e40d332176f7bde32315cd1bfe001e4164a96.jpg",
+        "paste-50d73a28d4c52c6146ad37ca651180e0e2e06bb0.jpg",
+        "paste-50e4a7b3381e70ee7c4bb9ba98e968f73c16925b.jpg",
+        "paste-513c3032241c10e5903a53dbd809277b4b35154a.jpg",
+        "paste-5366c1f72fb3c440cf6a52c9309ccd9c057ec5e9.jpg",
+        "paste-541392e82d46df1b5cc6de64ca472337dcdb93ea.jpg",
+        "paste-584014454fb36a3dc67a3213fa822bdcea697389.jpg",
+        "paste-5c12727a315c65b3cc13204140f227d6cdf43617.jpg",
+        "paste-5cb2fd3b5c4ed36cace63eef8daa814cd3516c44.jpg",
+        "paste-5d84f95d6e784e1c68f8f033297f03c1513d43e2.jpg",
+        "paste-5e1b35646ce95b7d426e797348b67908cbc96675.jpg",
+        "paste-5f16d209cb76b223ce0a7882264aad688ebb2d9c.jpg",
+        "paste-602471f8a60281312abe9fb3c4fbd0f2ecd11c73.jpg",
+        "paste-65a8d611de39028113fc0209fe923f358df76397.jpg",
+        "paste-680bfffc3b364de258e83314efa25f06712da396.jpg",
+        "paste-68fbbc613c0026fe822c9873bdf1308d8330b329.jpg",
+        "paste-6c25045580803549bedba6babe7e3768cf6821dd.jpg",
+        "paste-6c671ef34c1980c4e4099130b0ec14fc54927fa3.jpg",
+        "paste-6f08f63832a596b2b8200176fc7a9c94ff65ae3a.jpg",
+        "paste-6fd1c82c63e70c73d59a923e55ea3894632ee7b1.jpg",
+        "paste-710ec7f1ab5810bdcdd1f9deb7de239ccbcd140c.jpg",
+        "paste-74feb978ee8b6282d4105e79eace18b2199fe67b.jpg",
+        "paste-752ca7a94c4f5d26c41540ed5951f61fc1a9223d.jpg",
+        "paste-7550d2f4040254eaedc06ac3cfe0e777fd96f9bd.jpg",
+        "paste-7a2c1d184ae24ac13155dc745b7928c505b5d09d.jpg",
+        "paste-7aa9b48b1125e2d9b39744c722c9fb89a393066d.jpg",
+        "paste-7c48c4197267335b008452d28824e0b24ca2969e.jpg",
+        "paste-7f9c7b3111d22dcd726d3dedd092521e6e12378b.jpg",
+        "paste-82976970d78808832c4214dc0cb01f5e5dff010f.jpg",
+        "paste-82c5bebd0d8430b3d1d5a2f2cad0fddbd7de2d85.jpg",
+        "paste-8423f6ad664bb0aa4ec8d1fa64fbe39a59435034.jpg",
+        "paste-85ece7ada7f83b7eca9caf2e4cbbb889cdebe87a.jpg",
+        "paste-869f6b471c71c863632e0b79b864739aa2f54900.jpg",
+        "paste-8782171fef4aef8f968c2bd9742048ad804eb0bc.jpg",
+        "paste-87d59dc75ae1b4aa482324a9a19834938337db29.jpg",
+        "paste-87d6669c1faf20c37cace4953110f97a9a697142.jpg",
+        "paste-88c5f7abfc622494afeb24b829c4c30cb51c0486.jpg",
+        "paste-89dd3180a8b1caa9734bf348f0bd9431316cd876.jpg",
+        "paste-8abde5391c0fac40e63599ad393db45e33235de6.jpg",
+        "paste-8c0a980309eb2e681607f5c74acb8a290ea31972.jpg",
+        "paste-8c14663dfccc18490c7f4e23d0bf589e8e682cb3.jpg",
+        "paste-8defdd517ebe71360afddb1a96b85dc812c87470.jpg",
+        "paste-8ecbddd63d5998ee70f97aa74a5ea6c60e837a6b.jpg",
+        "paste-91f3a38fbac8f6c880ba6f9d83f780108692d321.jpg",
+        "paste-9379f8b1b4fa3a9ec827e8a7f585818e1c30bd2f.jpg",
+        "paste-93ca6f8e70c3319306a4b425a214de3018967179.jpg",
+        "paste-93e17441d28b71a726c0d4e01390474951c53cfe.jpg",
+        "paste-981baf2d1fffec30de9fc4440d9652d249a3cc34.jpg",
+        "paste-98bf69049ed88e956693414952a8e8503648bd95.jpg",
+        "paste-998df0960db43b6944637ee780968ee76e3a5b94.jpg",
+        "paste-9f839a7e6f4df49738b7f5cd9b4cd39aaa959a37.jpg",
+        "paste-a0188239ae8f4d871ca7653c22a5d7477310a966.jpg",
+        "paste-a1751c7927a5e1d1b7dc8960ffe91a3b2e79f451.jpg",
+        "paste-a190ce0f9d7bcb70fa62fef84eb74efc79d15a62.jpg",
+        "paste-a26f0e691f81f51cc50d8668607e2e3a0e21b0f8.jpg",
+        "paste-a2dda46572bf908107b2a151464d16e4af5df8b0.jpg",
+        "paste-a3f95473759d14c983ae2ffd1c4a0516a2a832d4.jpg",
+        "paste-a4ca607bfb355a0bc41f81b4695b34c639669f35.jpg",
+        "paste-a7efc1ab05b1039ed983e153f4317df8e85db0d2.jpg",
+        "paste-a8b193223f0cdc028aef797032d0ea6c891408fb.jpg",
+        "paste-a8ecda7e530a074b3226adfa05e57ae5645a2039.jpg",
+        "paste-a927c9bb92a68da61c1e8b3dc96536258a5e8d4d.jpg",
+        "paste-a9794801074631cc5897e995f901b13d96faf7bf.jpg",
+        "paste-ab502ca7b33ebbab523760e8ef9c806bf614b57f.jpg",
+        "paste-acbd7fa5879ba0b0e86a9493d81962f496bcf89d.jpg",
+        "paste-ad2f4092d0c312f2b0c9457f88e0599c7e485afd.jpg",
+        "paste-af575dfa30f8c01fd1b257b23d5e2b959cda8035.jpg",
+        "paste-af9f98c1c5021b975422b3f6d63214a408de0d6d.jpg",
+        "paste-b08406481cb2d22126322cdc1f08cdedcee5cf3c.jpg",
+        "paste-b1e9e4457d68d5d6846a91225480b53804a02d9d.jpg",
+        "paste-b23eafa85efd80bebca0f77c71d1a6dc041fe25d.jpg",
+        "paste-b2c665a405b57162dc7f64c13b70db459d741680.jpg",
+        "paste-b2ead4dceb73952f57a62ae3549afcbbea061e06.jpg",
+        "paste-b33df36297cbef788672c2efe818244ef2f2e222.jpg",
+        "paste-b376eafc5bfcea00735d7e115ffee0b726c49811.jpg",
+        "paste-b3c55858cbe5855a87ce248a64292bdaaf493a22.jpg",
+        "paste-b46eb87235da63d1a03bcb1066019e80d985e3b8.jpg",
+        "paste-b4e3e8b1fa70b5f6d72a32a9a3d65ff46b509e19.jpg",
+        "paste-b5803b5193b801677a68c4a265f80ec91802d715.jpg",
+        "paste-b6efd7ef949f53bf0fca45ef64cd3c7b6ae645dd.jpg",
+        "paste-b79df511b24082277ed13d146b18be9962ee55e5.jpg",
+        "paste-bab4005f0f6bfb51b04c4b7065d2130b95a3edd4.jpg",
+        "paste-bb79b6e086a9452ce969a0bade283ccc5a6414e5.jpg",
+        "paste-bba738c55896fc17fda268ca36d54858d2052bac.jpg",
+        "paste-bc7aa363cb1742c59a6b0acd93088a1eef5f0584.jpg",
+        "paste-beef6e8c7c5275d108b96ed8012b7e6119bffb8d.jpg",
+        "paste-c00165672f58ac6650a14e263d980581b62c3612.jpg",
+        "paste-c01091b956248ef55a0ad9cf646b1ba41db63093.jpg",
+        "paste-c050e5a75c35945b91e2bbf3baca8ec9ff73de94.jpg",
+        "paste-c348ee51c0e4258565d145d4042a6b763dfa1799.jpg",
+        "paste-c589a1d0c55737b1a6139ed47c37941f08bffd87.jpg",
+        "paste-c61786a8606eefeb8cafdae9f2e9120f281c18c9.jpg",
+        "paste-c76518b225cc1b34109beffa6b48e60a41738015.jpg",
+        "paste-c7cb0c94ddeed8251d944e01298f22edbaebfa59.jpg",
+        "paste-c827d93567a841a82bdc96ca8001bffe80017bee.jpg",
+        "paste-c885266f90ad99e14b78b9b71de55e29e1a62290.jpg",
+        "paste-c8d83584cb0b6b82c105c8c98ce4345bdae9da69.jpg",
+        "paste-c8eac63d8fed62296cb04e53af159c3cf121e01b.jpg",
+        "paste-c9bf02ef6813aaa2a29838ef433bafd351f77fc1.jpg",
+        "paste-cc2d676901f724bd92807132fa54c3b2c87e0ec8.jpg",
+        "paste-ccc79210453aa09de55d7d5e69d9b50f0a970855.jpg",
+        "paste-cd3b8e5bfaf13094567ad8fe9d33066b27db2f63.jpg",
+        "paste-d0ed88512765f8811f8903b80d52968e844f8604.jpg",
+        "paste-d10f8175d44d8f6c8f07efeabc687e7ad61aac94.jpg",
+        "paste-d14c0a00e39c8bd5729e37fc0eaa074a1038894e.jpg",
+        "paste-d174625986820b904ef80cfad7a0dcf45430ad2e.jpg",
+        "paste-d2734f24c9340a93daf52a744e25c5571f295c55.jpg",
+        "paste-d4688355951d63af49f24152d9556c9a32a93ad1.jpg",
+        "paste-d5285ba32babd54723a9be0c5bec0d14d333dd7f.jpg",
+        "paste-d573b2bfde005d23b29213fc83f957ce86fda784.jpg",
+        "paste-db3d5eb009412d3fb7f77dd3a970be10b56de7ee.jpg",
+        "paste-db85028581b93a232def5814cd51d94173d2f8ee.jpg",
+        "paste-dbc5f264ee459724cbb29068f4a8a0116fc77cf5.jpg",
+        "paste-dc54c2fb258d57f454762a9514c4c69a9fc93e16.jpg",
+        "paste-ddbcd7c3a4228508a9ba5d59885bdc1630f4834a.jpg",
+        "paste-de9b1794d529fdbd95d6952f1a0d0590ee2bdaa3.jpg",
+        "paste-df0b5bdf3390e3a9f5de010a3c68ac2587677a3f.jpg",
+        "paste-e04d00f6fbfe4b0666eb8524a81c6e20e9d8503f.jpg",
+        "paste-e0e97f92537bda2568e9f9c0fddddc3210d0eb7c.jpg",
+        "paste-e0ef75cff614b69ffaf8a61dcb2aed8ab99e0650.jpg",
+        "paste-e3d37e0223bcbea74fc8c78ad9e98ff2a51d8ce8.jpg",
+        "paste-e403e2ab9d536e48815abb2c440ea7cabb043a7c.jpg",
+        "paste-e4a70afbf02e08784d83a2a61d43ae14d2b93e7b.jpg",
+        "paste-e4ef2197b76ade25d2a5382030da7c7af042768d.jpg",
+        "paste-e946cd1c4e998f67d45ff50c2a0c0e8aa3e7fd99.jpg",
+        "paste-e97bb0dd85414c8aa65dc178584ab91dd4297da4.jpg",
+        "paste-eb8785695441b4df6e901d69ae4f2a49e79e6e16.jpg",
+        "paste-ecda85f4e90bdc3e24c49c136decbf5725941374.jpg",
+        "paste-ed53a784e64862fb68c08b24b81f38e3a7809ea0.jpg",
+        "paste-eeae85f6c630a67c91878a0e007bd8e1a05542fa.jpg",
+        "paste-eef1ae3951d8068a3301b4b51730c68564813b0d.jpg",
+        "paste-f05be9e0a1a5b3b3acf0e1acd06156a2441d91a7.jpg",
+        "paste-f2c3ea24f04eb2965a4d47fc911ca71c03ab813a.jpg",
+        "paste-f3409614115542cae91479a5447fe14e2cf86e7d.jpg",
+        "paste-f5bd1c847b52d2b98bbe432b81e210989c087c26.jpg",
+        "paste-f663aec48f5385a8f73381b455657a0512c7ad0a.jpg",
+        "paste-f66c89a95fb3dd36039829fb46feb6a7ea45f36b.jpg",
+        "paste-f7c63834fe35e647eeef6bb84bb371d599e27f61.jpg",
+        "paste-fa7d95842eebbe653aac2b831659c7fd5d218c8c.jpg",
+        "paste-faa9b2f88696d627cf3a2b73c7e4d3a2f5efea28.jpg",
+        "paste-fb1394ea15c4d30703cc99a12bd1d144a7bae56f.jpg",
+        "paste-fb2be55228bb4be8aabfe415ed8e5a7f98818cba.jpg",
+        "paste-fb4f9beb57b4fbd8dfbc20059cf47dbae00e63d9.jpg",
+        "paste-fd6e0988a6fd2e1c4cc4ff29c3511a561d0dbb4c.jpg",
+        "paste-fedc58ce4e7efa3367bf6b4203271420a1cebff7.jpg",
+        "paste-fedf21691a18eef19945fc09ad2ee74f48a29c8d.jpg"
+    ],
+    "name": "Teorie::ZNS",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic Quizlet",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Normal",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Reverse",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je experní systém?",
+                "<img src=\"paste-b4e3e8b1fa70b5f6d72a32a9a3d65ff46b509e19.jpg\">",
+                ""
+            ],
+            "guid": "xK>>bdb|SN",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou charakteristické rysy zns?",
+                "<img src=\"paste-ab502ca7b33ebbab523760e8ef9c806bf614b57f.jpg\"><div><img src=\"paste-bab4005f0f6bfb51b04c4b7065d2130b95a3edd4.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "Fz4hC_Sl,=",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké byly 1. ZNS? Kdy",
+                "<img src=\"paste-998df0960db43b6944637ee780968ee76e3a5b94.jpg\">",
+                ""
+            ],
+            "guid": "B]</O`m)oa",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "data, informace, znalost, moudrost?",
+                "<img src=\"paste-f5bd1c847b52d2b98bbe432b81e210989c087c26.jpg\">",
+                ""
+            ],
+            "guid": "k6%3cw~.E8",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Čím jsou reprezentovány znalosti: <br>(co všechno o datech nás zajímá) (4)",
+                "<img src=\"paste-2ca6b1eee672e50b7c43b32b53e902911cffaddf.jpg\">",
+                ""
+            ],
+            "guid": "g&W-l1D49f",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "typy zns podle báze znalostí (3)",
+                "<img src=\"paste-13bea9a0e74cf0d5ad5ca1a872ab026dd59bcb71.jpg\">",
+                ""
+            ],
+            "guid": "x/J%wR_/vR",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "typy zns podle funkce",
+                "<img src=\"paste-ddbcd7c3a4228508a9ba5d59885bdc1630f4834a.jpg\"><div>....</div>",
+                ""
+            ],
+            "guid": "paEeS=#Z5V",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K čemu se využívají ZNS?",
+                "<img src=\"paste-46aeaaefb4e769fab0fffc0d5a722dab076fec1b.jpg\"><img src=\"paste-b1e9e4457d68d5d6846a91225480b53804a02d9d.jpg\">",
+                ""
+            ],
+            "guid": "ym/]DxKc+!",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "výhody zns",
+                "<img src=\"paste-1e862ce278e73f890d10953142026aef043907ee.jpg\"><div><img src=\"paste-af575dfa30f8c01fd1b257b23d5e2b959cda8035.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "hIum>z4kPH",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nevýhody zns:",
+                "<img src=\"paste-325a5ff397ea64d2d343bc4ba5e8d9412b1fe6ae.jpg\">",
+                ""
+            ],
+            "guid": "MZ%EdN!?>9",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proč ZNS nedosáhly takového rozšíření?",
+                "<img src=\"paste-1d77c2878b62a82edd8d951801aee021470298d4.jpg\">",
+                ""
+            ],
+            "guid": "JcN4+|%|YR",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1. generace systémů",
+                "experní systémy<div><img src=\"paste-010dc6fa3432283120399ba0fe88abeab5df55f6.jpg\"></div>",
+                ""
+            ],
+            "guid": "EaHZQAfPd-",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2. generace systémů",
+                "<img src=\"paste-98bf69049ed88e956693414952a8e8503648bd95.jpg\">",
+                ""
+            ],
+            "guid": "F5o@*F7vb.",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_01_uvod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je znalostní systém?",
+                "<img src=\"paste-4a693b1e61f96ed0bf17b79e7186def14bb0cfd1.jpg\">",
+                ""
+            ],
+            "guid": "A!4[FWp3Y6",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "části zns:",
+                "<img src=\"paste-b2ead4dceb73952f57a62ae3549afcbbea061e06.jpg\"><div><img src=\"paste-ad2f4092d0c312f2b0c9457f88e0599c7e485afd.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "=DN)k7n[i",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diagnostické zns",
+                "<img src=\"paste-b2c665a405b57162dc7f64c13b70db459d741680.jpg\"><div>- schéma:<br><div><img src=\"paste-eeae85f6c630a67c91878a0e007bd8e1a05542fa.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "Q%22tI!%am",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Charakter znalostí u modelu diagnostické úlohy",
+                "<img src=\"paste-8782171fef4aef8f968c2bd9742048ad804eb0bc.jpg\"><div><br></div>",
+                ""
+            ],
+            "guid": "dT>H(arG9R",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rozlišování znalostí u diagnostického zns",
+                "<img src=\"paste-02cc4c00e5847049f1670f5ddd21cfd36f557d4e.jpg\"><div><img src=\"paste-00aa38f2a87a494cfc3b8ff2c295c429aac3f0f1.jpg\"><br></div><div><img src=\"paste-a2dda46572bf908107b2a151464d16e4af5df8b0.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "PY?Q1TA_xm",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "generativní zns",
+                "<img src=\"paste-1e9e27531f83f45fa42a306c19d0dcb49e70c76d.jpg\">",
+                ""
+            ],
+            "guid": "P!-sS%Zb^c",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "data vs znalosti podle získávání",
+                "<img src=\"paste-e0ef75cff614b69ffaf8a61dcb2aed8ab99e0650.jpg\"><div><img src=\"paste-c01091b956248ef55a0ad9cf646b1ba41db63093.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "ADk`L}`_Q|",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak můžeme reprezentovat znalostí?",
+                "<img src=\"paste-bba738c55896fc17fda268ca36d54858d2052bac.jpg\">",
+                ""
+            ],
+            "guid": "m|#p75f`#c",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "predikátová logika",
+                "<img src=\"paste-f66c89a95fb3dd36039829fb46feb6a7ea45f36b.jpg\">",
+                ""
+            ],
+            "guid": "pO^b>qRxpD",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sémantické sítě",
+                "<img src=\"paste-e3d37e0223bcbea74fc8c78ad9e98ff2a51d8ce8.jpg\"><div>obtížná změna struktury</div><div><img src=\"paste-ecda85f4e90bdc3e24c49c136decbf5725941374.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "O@Dp+mVe1i",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bayesovská síť",
+                "<img src=\"paste-bc7aa363cb1742c59a6b0acd93088a1eef5f0584.jpg\"><div><img src=\"paste-93e17441d28b71a726c0d4e01390474951c53cfe.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "mC9U0X4.f<",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rámce",
+                "<div>- dědění&nbsp;</div><div>- vlastní atributy&nbsp; pro třídu</div><div><img src=\"paste-5366c1f72fb3c440cf6a52c9309ccd9c057ec5e9.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "v[DVL9sD#)",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "modus ponens",
+                "<img src=\"paste-b376eafc5bfcea00735d7e115ffee0b726c49811.jpg\"><div><img src=\"paste-05bbaf71f3b5b8641a8140e7c7cf337e21524144.jpg\"><br></div><div>(mnemotechnicky PO - platí předpoklad už se nemusím koukat dál, musí platit i závěr)</div>",
+                ""
+            ],
+            "guid": "kNTH~cuCf0",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "modus tollens",
+                "<img src=\"paste-23ec4632e6d5e00522b109d559b1c88f30ccf592.jpg\"><div>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src=\"paste-2c4209652c6a0781c7b3d2c8adc1d6be3e0a6a8c.jpg\"><br></div><div>(mnemotechnicky TOLL&nbsp;</div><div>- neplatí závěr, náležitě za to zaplatím&nbsp;</div><div>(neplatí mi ani předpoklad)</div><div>)<br></div>",
+                ""
+            ],
+            "guid": "e%%;id^gS",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ponendo tollens",
+                "<img src=\"paste-c7cb0c94ddeed8251d944e01298f22edbaebfa59.jpg\"><div><img src=\"paste-3524be5da916ce806937232040da8fbbd9d0d402.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "PCq.)XbKFt",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "abdukce",
+                "<img src=\"paste-d10f8175d44d8f6c8f07efeabc687e7ad61aac94.jpg\">",
+                ""
+            ],
+            "guid": "Nl9D-iM3j#",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "indukce",
+                "<img src=\"paste-513c3032241c10e5903a53dbd809277b4b35154a.jpg\">",
+                ""
+            ],
+            "guid": "c4<5{(@L05",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zpětné řetězení (usuzování řízené cíli)",
+                "<img src=\"paste-d2734f24c9340a93daf52a744e25c5571f295c55.jpg\">",
+                ""
+            ],
+            "guid": "m93n?S@Q)r",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "+-&nbsp;zpětného řetězení",
+                "<img src=\"paste-e0e97f92537bda2568e9f9c0fddddc3210d0eb7c.jpg\">",
+                ""
+            ],
+            "guid": "OmCwuqQ>C]",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "přímé (dopředné) řetězení",
+                "<img src=\"paste-fedf21691a18eef19945fc09ad2ee74f48a29c8d.jpg\">",
+                ""
+            ],
+            "guid": "HyzpXR-?dq",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "+-&nbsp;přímého řetězení",
+                "<img src=\"paste-dc54c2fb258d57f454762a9514c4c69a9fc93e16.jpg\">",
+                ""
+            ],
+            "guid": "Om2)qf?ur^",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kdy použijeme přímé, kdy zpětné řetězení?",
+                "<img src=\"paste-d174625986820b904ef80cfad7a0dcf45430ad2e.jpg\">",
+                ""
+            ],
+            "guid": "dyCF*c[n%W",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje zns obecně? (3)",
+                "<img src=\"paste-2fa14d36a9a89aa108505a0a61033d120afceda3.jpg\">",
+                ""
+            ],
+            "guid": "vCq&~n9t&f",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké strategie jsou využívány při řešení konfliktů při běhu?",
+                "<img src=\"paste-e4ef2197b76ade25d2a5382030da7c7af042768d.jpg\">",
+                ""
+            ],
+            "guid": "Q6yplxjmMK",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je exhaustivní a neeexhaustivní prohledávání?",
+                "<img src=\"paste-b5803b5193b801677a68c4a265f80ec91802d715.jpg\">",
+                ""
+            ],
+            "guid": "Lu#?1iOAJp",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Na jaké typy otázek se většinou můžu zeptat vysvětlovacího modulu?",
+                "<div>- how, why, what-if</div><div><br></div><img src=\"paste-0982f86442e33a44b57f1f4f1c8f846356f7388d.jpg\"><div><img src=\"paste-fb2be55228bb4be8aabfe415ed8e5a7f98818cba.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "gXxM?T3DS}",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaký typ programování užívá prolog",
+                "deklarativní, logický, procedurální (procedury - predikáty)",
+                ""
+            ],
+            "guid": "vRD.3aABg(",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kde se používá agenda?",
+                "<img src=\"paste-541392e82d46df1b5cc6de64ca472337dcdb93ea.jpg\">",
+                ""
+            ],
+            "guid": "NHQwWY9aJ{",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je shell? Říct příklad shellu",
+                "<img src=\"paste-fedc58ce4e7efa3367bf6b4203271420a1cebff7.jpg\"><div>např CLIPS, G2, Level_5, M4</div>",
+                ""
+            ],
+            "guid": "cX7ANXcCxG",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je znalostní inženýrství?",
+                "<img src=\"paste-e04d00f6fbfe4b0666eb8524a81c6e20e9d8503f.jpg\">",
+                ""
+            ],
+            "guid": "u&Fxe`)my,",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "znalostní vs softwarevové inženýrství",
+                "<img src=\"paste-0b928f76f953fb6fb5f270bf4d5571860b7848e0.jpg\">",
+                ""
+            ],
+            "guid": "zf:Ki)wB{i",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy nahradit konvenční metody a použít radši ZNS?",
+                "<div>- vysoká vágnost, nízká komplexnost</div><div>- vysoká komplexnost, nízká vágnost</div><div><br></div><img src=\"paste-e946cd1c4e998f67d45ff50c2a0c0e8aa3e7fd99.jpg\"><img src=\"paste-4d2e40d332176f7bde32315cd1bfe001e4164a96.jpg\">",
+                ""
+            ],
+            "guid": "fp]i1{!=SC",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fáze vývoje aplikace",
+                "<img src=\"paste-6c671ef34c1980c4e4099130b0ec14fc54927fa3.jpg\"><img src=\"paste-8abde5391c0fac40e63599ad393db45e33235de6.jpg\">",
+                ""
+            ],
+            "guid": "zizyfwh^&q",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je rychlé prototypování?",
+                "<img src=\"paste-2570c38495d67dd2c12902ac07780e11f26f756d.jpg\">",
+                ""
+            ],
+            "guid": "n:SR]5dlwJ",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co se modeluje ve fázi analýzy vývoje ZNS? (3)",
+                "<div><img src=\"paste-a8b193223f0cdc028aef797032d0ea6c891408fb.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "p<?gZ%CnU7",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fáze vývoje zns",
+                "<img src=\"paste-7f9c7b3111d22dcd726d3dedd092521e6e12378b.jpg\"><div><img src=\"paste-5cb2fd3b5c4ed36cace63eef8daa814cd3516c44.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "I6V)ma+fO<",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co se modeluje ve fázi projektování při vývoji ZNS? (4)",
+                "<img src=\"paste-68fbbc613c0026fe822c9873bdf1308d8330b329.jpg\">",
+                ""
+            ],
+            "guid": "hQ,yQW^Z{3",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je GTM (model generické úlohy)?",
+                "polotovar pro model expertízy (jak se budou získávat znalosti)",
+                ""
+            ],
+            "guid": "p2m$WXsg3`",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metody inferenčního mechanizmu (4)",
+                "<img src=\"paste-c827d93567a841a82bdc96ca8001bffe80017bee.jpg\"><br>",
+                ""
+            ],
+            "guid": "q%p]bp2x?S",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je ontologie?",
+                "<img src=\"paste-4b4da5d2e217f264edc9b7824a3f966fe8fbd83a.jpg\">",
+                ""
+            ],
+            "guid": "GcXF)>A|S6",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké části musí obsahovat ontologie?",
+                "<img src=\"paste-50d73a28d4c52c6146ad37ca651180e0e2e06bb0.jpg\"><br>",
+                ""
+            ],
+            "guid": "zv=q6U-C{_",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Konáš teď elicitaci?",
+                "Ano <br>elicitace = Proces získávání znalostí",
+                ""
+            ],
+            "guid": "d^?~}Dk!1s",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je introspekce?",
+                "myšlění nahlas - expert nahlas řeší úkol, snaha extrahovat znalosti",
+                ""
+            ],
+            "guid": "K&jh209aI%",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje neverbální technika třídění karet?",
+                "<img src=\"paste-602471f8a60281312abe9fb3c4fbd0f2ecd11c73.jpg\">",
+                ""
+            ],
+            "guid": "dwSh_ye4ZL",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje neverbální technika&nbsp;repertoárové tabulky?",
+                "<img src=\"paste-34c84516750dff0f041e72abae7228d1d83c6944.jpg\"><img src=\"paste-05f54ad6fffa288bedfc6a80cf236d724f8539b3.jpg\">",
+                ""
+            ],
+            "guid": "jNEk0d)>JA",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje získávání znalostí maticovou analýzou?",
+                "<img src=\"paste-4c633678413a2089b195ada1aad977cb2bb6b56e.jpg\">",
+                ""
+            ],
+            "guid": "QA(g8a{.=L",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak získáváme znalosti pomocí neverbální techniky vícerozměrné škálování?",
+                "<img src=\"paste-584014454fb36a3dc67a3213fa822bdcea697389.jpg\">",
+                ""
+            ],
+            "guid": "Bgj8xc#N>+",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak získáváme znalosti pomocí neverbální techniky žebříčková analýza?",
+                "<img src=\"paste-2dec3d44d3ae761e928554c4b03d15ef0fbd33f0.jpg\">",
+                ""
+            ],
+            "guid": "bkrf%6hkei",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proč je neurčitost ve ZNS?",
+                "<img src=\"paste-5c12727a315c65b3cc13204140f227d6cdf43617.jpg\">",
+                ""
+            ],
+            "guid": "Iglrk`9rxF",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Čím se dá vyjádřit míra nejistoty? (6)",
+                "<img src=\"paste-12a48fe66e2e7776bd58114bb3bf46525f5e5789.jpg\"><div></div>",
+                ""
+            ],
+            "guid": "tT-mB:B#SG",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou přístupy ke zpracování neurčitosti? ( přístupy založené na ...) (2)",
+                "<div>- ad hoc modely</div><div>- teoreticke principy</div><div><br></div><img src=\"paste-eef1ae3951d8068a3301b4b51730c68564813b0d.jpg\">",
+                ""
+            ],
+            "guid": "iJu67sEc_A",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá Bayesův vzorec?",
+                "<img src=\"paste-93ca6f8e70c3319306a4b425a214de3018967179.jpg\">",
+                ""
+            ],
+            "guid": "dY[6Z4+%]x",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá vztah pro apriorní pravděpodobnostní šanci u Bayesovských sítí?",
+                "<img src=\"paste-2b4aa38e4323ec50a10f62ff75557dce2b3a62f2.jpg\">",
+                ""
+            ],
+            "guid": "xH#(Klf3Z)",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá vztah pro aposteriorní pravděpodobnostní šanci u BS?",
+                "<img src=\"paste-a8ecda7e530a074b3226adfa05e57ae5645a2039.jpg\">",
+                ""
+            ],
+            "guid": "cM!_bl|XA@",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lze u BS vypočítat pravděpodobnost ze šance?",
+                "Ano<div><img src=\"paste-fb4f9beb57b4fbd8dfbc20059cf47dbae00e63d9.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "Lc;~Bp/({?",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K čemu je&nbsp;míra postačitelnosti?",
+                "<img src=\"paste-a190ce0f9d7bcb70fa62fef84eb74efc79d15a62.jpg\"><div><img src=\"paste-710ec7f1ab5810bdcdd1f9deb7de239ccbcd140c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "P1|2KTjwi6",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co říká malá hodnota míry nezbytnosti?",
+                "<img src=\"paste-321c4de330ca60c23429f489972ed4437c6df502.jpg\"><div><img src=\"paste-f663aec48f5385a8f73381b455657a0512c7ad0a.jpg\"><br></div>",
+                ""
+            ],
+            "guid": ">?WVS,-sf",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mějme pravidla E1 → H, E2 → H, … , En → H pro BS. Pak\naposteriorní šance při nezávislosti předpokladů\n(evidencí) Ei se vypočte podle vztahu:",
+                "<img src=\"paste-fb1394ea15c4d30703cc99a12bd1d144a7bae56f.jpg\">",
+                ""
+            ],
+            "guid": "ho_8hUL3;)",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou výhody a nevýhody BS?",
+                "<img src=\"paste-91f3a38fbac8f6c880ba6f9d83f780108692d321.jpg\">",
+                ""
+            ],
+            "guid": "CHe];sH]QU",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proč se začal užívat faktor jistoty?",
+                "<img src=\"paste-8c0a980309eb2e681607f5c74acb8a290ea31972.jpg\"><div><img src=\"paste-5f16d209cb76b223ce0a7882264aad688ebb2d9c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "gRUfISs^?L",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak spočítáme faktor jistoty z měr důvěry(MB) a nedůvěry(MD)?",
+                "<img src=\"paste-87d59dc75ae1b4aa482324a9a19834938337db29.jpg\"><div><img src=\"paste-0f54db36e5328ef75990c7079211ce79af0c1a57.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "As4x|<JQq,",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakých honot nabývá faktor jistity CF?",
+                "&lt;-1,1&gt;",
+                ""
+            ],
+            "guid": "b7:5#XGV7R",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Výhody a nevýhody faktorů jistoty",
+                "<img src=\"paste-d0ed88512765f8811f8903b80d52968e844f8604.jpg\">",
+                ""
+            ],
+            "guid": "n^PBR~Vce*",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mějme pravidla E1 → H, E2 → H, … , En → H (užíváme faktor jistoty). Označme\nCFn = CF(H, E1\n, …, En\n). Výpočet CFn se provede podle\nnásledujícího vzorce:",
+                "<img src=\"paste-ed53a784e64862fb68c08b24b81f38e3a7809ea0.jpg\">",
+                ""
+            ],
+            "guid": "yOf{H_g1&k",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je nemonotónní usuzování?",
+                "<img src=\"paste-0b94f32d594722f07b2be6a1a3a44a5a1ea62268.jpg\">",
+                ""
+            ],
+            "guid": "c=*9V;g~37",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdo patří do skupiny&nbsp;pravděpodobnostních grafických modelů?",
+                "Bayesovské sítě<div>Markovské modely</div>",
+                ""
+            ],
+            "guid": "fn;uL(L2dg",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená hrana mezi veličinami v Bayesovských sítích?",
+                "<img src=\"paste-cd3b8e5bfaf13094567ad8fe9d33066b27db2f63.jpg\">",
+                ""
+            ],
+            "guid": "cJe{6^(r9.",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "V čem se liší Bayesovská a Markovská síť?",
+                "Pokud by hrany BS nebyly orientovány, pak by se jednalo o tzv.<br>markovské sítě.",
+                ""
+            ],
+            "guid": "MB`OS+}o74",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Může mít BS smyčky?",
+                "Ne",
+                ""
+            ],
+            "guid": "yq[6XyhXLK",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jakou má uzel pravděpodonost, když nemá rodiče?",
+                "<img src=\"paste-6f08f63832a596b2b8200176fc7a9c94ff65ae3a.jpg\">",
+                ""
+            ],
+            "guid": "u9w$(/d5m%",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proč a popř jak bychom si mohli očíslovat uzly BS?",
+                "<img src=\"paste-5d84f95d6e784e1c68f8f033297f03c1513d43e2.jpg\"><div><img src=\"paste-091c1ddd5fe3d2315ddedcda22dd0c1e463472b0.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "AT]1icU){",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Slouží řetězcové pravidlo v BS jako prostředek pro rozklad na jednodušší členy(faktorizaci)? Souvisí nějak se sdruženou pravděpodobností?",
+                "ano, ano<div><img src=\"paste-b3c55858cbe5855a87ce248a64292bdaaf493a22.jpg\"><br><div><br></div></div>",
+                ""
+            ],
+            "guid": "OO~%Pv3xO)",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Jak děláme interferenci (pravděpodobnostní usuzování) v Bayesovských sítích?</blockquote>",
+                "<img src=\"paste-680bfffc3b364de258e83314efa25f06712da396.jpg\">",
+                ""
+            ],
+            "guid": "JDkRQ^%8YV",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co dává za výsledky konjunkce a disjunkce v trojohnotové logice?",
+                "<div>konjunkce pomyslně minimum z hodnot</div><div>disjunkce pomyslně maximum z hodnot</div><img src=\"paste-b79df511b24082277ed13d146b18be9962ee55e5.jpg\">",
+                ""
+            ],
+            "guid": "Q4H[+g4&[n",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je synergický efekt v multiagentních systémech?",
+                "<img src=\"paste-49955efb7953093d21552ba688fc3f8567696789.jpg\">",
+                ""
+            ],
+            "guid": "M,>I[mOb&q",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jazyky můžeme využít pro komunikaci mezi agenty?",
+                "<img src=\"paste-a9794801074631cc5897e995f901b13d96faf7bf.jpg\">",
+                ""
+            ],
+            "guid": "maFVM+-v[6",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co musí vědět a umět agent?",
+                "<img src=\"paste-acbd7fa5879ba0b0e86a9493d81962f496bcf89d.jpg\"><div>- vytvořit si plány a cíle<br><div><br></div><div>----co-by-mohl-umět-(občas-nemusí-nutně)---</div><div><br></div><div><img src=\"paste-c76518b225cc1b34109beffa6b48e60a41738015.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "q8]Uf<t$q,",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou typy agentů?",
+                "<img src=\"paste-d14c0a00e39c8bd5729e37fc0eaa074a1038894e.jpg\"><br>",
+                ""
+            ],
+            "guid": "ID}7HbBR,1",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje reaktivní agent?",
+                "<img src=\"paste-6fd1c82c63e70c73d59a923e55ea3894632ee7b1.jpg\"><br><div>- např operační systém</div>",
+                ""
+            ],
+            "guid": "oqj*MM:=np",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje intencionální (deliberativní, účelově orientovaný) agent?",
+                "<img src=\"paste-981baf2d1fffec30de9fc4440d9652d249a3cc34.jpg\">",
+                ""
+            ],
+            "guid": "HxV#U<(2z^",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje&nbsp;Sociální (modelový) agent?",
+                "<img src=\"paste-e97bb0dd85414c8aa65dc178584ab91dd4297da4.jpg\"><br>",
+                ""
+            ],
+            "guid": "fQx=7q07ky",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdo je agent?",
+                "<img src=\"paste-a0188239ae8f4d871ca7653c22a5d7477310a966.jpg\">",
+                ""
+            ],
+            "guid": "Gp+>Yk_@C9",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké by měli být vlastnosti agenta? (8)",
+                "<img src=\"paste-c61786a8606eefeb8cafdae9f2e9120f281c18c9.jpg\"><div><br></div>",
+                ""
+            ],
+            "guid": "sx?TACh3gG",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou typické prostředky pro koordinaci u multiagentního systému? (tj čím se agenti zvazují a kde jsou dána pravidla pro poručení závazku?)",
+                " závazek - čin, který má agent udělat smlouva - pravidla za kterých může úlohu udělat/opustit<br><div><img src=\"paste-b33df36297cbef788672c2efe818244ef2f2e222.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "QLLVw3X9R2",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké znáš všechny možné prostředky pro<br>koordinaci&nbsp;multiagentního systému? (5)",
+                "- závazek<div>- smlouva</div><div>- organizační struktura</div><div>- informace na metaúrovni</div><div>-&nbsp;multiagentní plánování&nbsp;</div><div><br></div><div><img src=\"paste-7aa9b48b1125e2d9b39744c722c9fb89a393066d.jpg\"><br></div><div><img src=\"paste-dbc5f264ee459724cbb29068f4a8a0116fc77cf5.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "r,#$sjxl|@",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Podle způsobu adresace zpráv u&nbsp;multiagentního systému můžeme metody přímé\nkomunikace rozdělit na",
+                "<img src=\"paste-b46eb87235da63d1a03bcb1066019e80d985e3b8.jpg\">",
+                ""
+            ],
+            "guid": "DT0gHUDL[B",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je tabule u&nbsp;multiagentního systému?",
+                "<div>- jedna z metod nepřímé komunikace&nbsp;</div><div><br></div><img src=\"paste-a3f95473759d14c983ae2ffd1c4a0516a2a832d4.jpg\">",
+                ""
+            ],
+            "guid": "bA1<<l{Hk/",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak bude fungovat implikece v 3 hodnotové logice?",
+                "<div>- 0 implikuje -&gt; cokoliv tj všude 1</div><div>- X implikuje -&gt; nevíme, musí platit závěr na 1, jinak X</div><div>- 1 implikuje -&gt; 1 pravda -&gt; 1</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;X nevíme -&gt; X</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0 nepravda -&gt; 0&nbsp;</div><img src=\"paste-45ca298e9f2b2996ad09f5d31bae9cd0e4597226.jpg\">",
+                ""
+            ],
+            "guid": "tF-l!nF=HG",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "báze pravidel u ZS s neurčitostí může být tvořena např pravidly tvaru: A-&gt; B(w). Co vyjadřují jednotlivá písmena?",
+                "<img src=\"paste-3f07ae0af190b242b3dca17a837917185911c786.jpg\">",
+                ""
+            ],
+            "guid": "qhdNN#xk!",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_05_neurcitost"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké je využití&nbsp;Bayesovských sítí",
+                "<img src=\"paste-82c5bebd0d8430b3d1d5a2f2cad0fddbd7de2d85.jpg\">",
+                ""
+            ],
+            "guid": "nxC?!N~E]>",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou výhody&nbsp;Bayesovských sítí?",
+                "<img src=\"paste-4bbbfdd73b1a152f7e47639ea03d4aa2b927bb87.jpg\">",
+                ""
+            ],
+            "guid": "z[?w,8380<",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_06_bayesovske_site"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je fuzzy množina?",
+                "<span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><b>množina</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;prvků, příslušnost k této množině je odstupňovaná</span><div><br></div>",
+                ""
+            ],
+            "guid": "m#0>4bhNLk",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je charakteristická funkce pro množinu v klasické logice?",
+                "<img src=\"paste-1e9cba353676cdd94178eecd01e2aaea09665243.jpg\"><div><img src=\"paste-d4688355951d63af49f24152d9556c9a32a93ad1.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "jUc<aj:Xj:",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Existuje&nbsp;Izomorfismus mezi teorií množin, Boolovou algebrou a výrokovým počtem? Popř jak vypadá",
+                "<img src=\"paste-0b91e0a30a7ab25f86af344bb2fa1b84c6c89350.jpg\">",
+                ""
+            ],
+            "guid": "B~TS;0f{?a",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak zapíšeme obecný předpis pro fuzzy množinu?",
+                "<img src=\"paste-2c4b148f2efcd76a13226ef1f13f5938ce2ad55b.jpg\"><div><img src=\"paste-7a2c1d184ae24ac13155dc745b7928c505b5d09d.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "mnfclvD1`.",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je kardinalita množiny?",
+                "<img src=\"paste-db85028581b93a232def5814cd51d94173d2f8ee.jpg\">",
+                ""
+            ],
+            "guid": "Mxqjl{y7z~",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak je veliká potenční množina množiny v klasické logice?",
+                "<img src=\"paste-185306ea8485c4d0661de7748e538e56793c2cd1.jpg\">",
+                ""
+            ],
+            "guid": "y|QYO4]4Ln",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy je fuzzy množina spočetná?",
+                "Dá se zapsat výčtem prvků s příslušnou honotou fce příslušnosti<div><img src=\"paste-cc2d676901f724bd92807132fa54c3b2c87e0ec8.jpg\"><br><div><br></div></div>",
+                ""
+            ],
+            "guid": "Oc&K-q0ix,",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je nosič fuzzy množiny? Jak se značí?",
+                "- množina všech prvků, co mají příslušnost &gt; 0<div><img src=\"paste-e403e2ab9d536e48815abb2c440ea7cabb043a7c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "QTpKVpo!6y",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je výška množiny? Jak se značí?",
+                "- maximální příslušnost prvku z množiny<div><img src=\"paste-65a8d611de39028113fc0209fe923f358df76397.jpg\"><br><div><br></div></div>",
+                ""
+            ],
+            "guid": "sLBL^fbp~A",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je jádro množiny? Jak se značí?",
+                "- množina prvků, pro které fce příslušnosti = 1<div><img src=\"paste-de9b1794d529fdbd95d6952f1a0d0590ee2bdaa3.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "z%)1`uwiq0",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy je fuzzy množina normální?",
+                "Minimálně jeden prvek dosahuje příslušnosti 1<div><img src=\"paste-f7c63834fe35e647eeef6bb84bb371d599e27f61.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "pIB4L^mn-K",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy je fuzzy množina prázdná?",
+                "Funkce příslušnosti všech prvků je 0<div><img src=\"paste-88c5f7abfc622494afeb24b829c4c30cb51c0486.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "p{?(eUQ41:",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je fuzzy jednotka? Jak se jí jinak říká? Vztah?",
+                "- singleton<div>- fuzzy množina s jedním prvkem<br><div><img src=\"paste-33f1e41f7f0ee7863b3b3ae1a29564ee6d1e11c5.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "xNZTqrX[=<",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se dělá alfa řez množiny?",
+                "- vezmou se všechny prvky s příslušností &gt;= alfě<div><img src=\"paste-28f44efdf0357d045ee48d8ab1f2535b78a76924.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "L5W61?DI~/",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se spočítá skalární kardinalita fuzzy množiny?",
+                "<div>jako součet všech příslušností</div><img src=\"paste-c00165672f58ac6650a14e263d980581b62c3612.jpg\">",
+                ""
+            ],
+            "guid": "H}|1J:fn*%",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suppX = ? ( X = {A, B, C})<div><img src=\"paste-24a5533f77c8c28d031d7fc84a97005433114c80.jpg\"><br></div>",
+                "<div>nosič (supp) = množina prvků s příslušností &gt; 0</div><img src=\"paste-8c14663dfccc18490c7f4e23d0bf589e8e682cb3.jpg\">",
+                ""
+            ],
+            "guid": "kNFwIXtm=}",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "KerX = ? X ={A,B,C}<div><img src=\"paste-2d80adc44bf2fc0ba658c9c7a40391780335fcbe.jpg\"><br></div>",
+                "jádro - všechny prvky co mají hodnotu fce příslušnosti 1<br><img src=\"paste-a4ca607bfb355a0bc41f81b4695b34c639669f35.jpg\">",
+                ""
+            ],
+            "guid": "B<ygs[>^db",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "alfa = 0.7 A řez podle alfy = ?&nbsp;<div><img src=\"paste-f05be9e0a1a5b3b3acf0e1acd06156a2441d91a7.jpg\"><br></div>",
+                "<img src=\"paste-8ecbddd63d5998ee70f97aa74a5ea6c60e837a6b.jpg\">",
+                ""
+            ],
+            "guid": "H,Tod{@%4",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Skalární kardinalita B?<div><img src=\"paste-338b59bd4c66a27a393162985724caf79cf001cf.jpg\"><br></div>",
+                "<div>= součet příslušností prvků</div><img src=\"paste-3a795d33419c771fde59a31bb8e5cb92f6e77df2.jpg\">",
+                ""
+            ],
+            "guid": "lYN?@:Cr_l",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kdy je fuzzy množina A podmožinou fuzzy množiny B?",
+                "<div>- prvky z A jsou v B&nbsp;</div><div>- příslušnost prvků v A &lt;= příslušnosti příslušných prvků z B</div><div><br></div><img src=\"paste-2af7783374fe89bd104efff8d4f323b714b3312e.jpg\">",
+                ""
+            ],
+            "guid": "o5?j7in(8z",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definujte rovnost fuzzy množin A a B",
+                "<img src=\"paste-11a704a01f88068745cf4cc1a8e615c0161e5421.jpg\">",
+                ""
+            ],
+            "guid": "M5rL{ybXN`",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je symetrická diference u ostrých množin?",
+                "<div>- sjednoceni rozdilu</div><img src=\"paste-beef6e8c7c5275d108b96ed8012b7e6119bffb8d.jpg\">",
+                ""
+            ],
+            "guid": "d#vh3W[GUU",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je fuzzy komplement množiny A?",
+                "změníme příslušnosti u prvků na<div><img src=\"paste-0a55b11f3f3d7a664f5bfa4aac8e2a4bd30b5735.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "MMZWTP.s&J",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá příslušnost prvku při fuzzy průniku A B?",
+                "příslušnost pro daný prvek P je minimum z příslušností prvků P v A a B<div><img src=\"paste-3545accf35d4213be1d642b94adca62af9fc3b72.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "n<9Q1^K?8%",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá příslušnost prvku při fuzzy sjednocení A B?",
+                "příslušnost pro daný prvek P je maximum z příslušností prvků P v A a B<div><img src=\"paste-396ad13d9937b25a993f94be4afdbf7372845e18.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "eKtpqvyVLW",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá příslušnost prvku při fuzzy kartézkém součinu A B?",
+                "<div>příslušnost pro daný prvek P je minimum z příslušností prvků P v A a B<br></div><img src=\"paste-82976970d78808832c4214dc0cb01f5e5dff010f.jpg\">",
+                ""
+            ],
+            "guid": "c~KQ{*D&PL",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá příslušnost prvku při n-té mocnině fuzzy množin A B?",
+                "<img src=\"paste-a1751c7927a5e1d1b7dc8960ffe91a3b2e79f451.jpg\">",
+                ""
+            ],
+            "guid": "H5C@~/wwn]",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Čím můžeme znázornit fuzzy množiny?",
+                "pomocí zobecněných Vennových diagramů<div><img src=\"paste-d5285ba32babd54723a9be0c5bec0d14d333dd7f.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "f{yQd}eEj0",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá algebraický (pravděpodobostní) součet fuzzy A a B?",
+                "<div><img src=\"paste-7c48c4197267335b008452d28824e0b24ca2969e.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "u*DQngT.zq",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá omezený součet fuzzy A a B?",
+                "<div>- jako součet co nikdy nepřekročí 1 :D</div><img src=\"paste-869f6b471c71c863632e0b79b864739aa2f54900.jpg\">",
+                ""
+            ],
+            "guid": "s{S.f-x:Ga",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá omezená diference fuzzy množin A a B?",
+                "<div>- jako součet příslušností - 1, omezený zdola 0</div><img src=\"paste-752ca7a94c4f5d26c41540ed5951f61fc1a9223d.jpg\">",
+                ""
+            ],
+            "guid": "tu<em2o,)I",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vypočítá algebraický součin A B?",
+                "klasicky...<div><img src=\"paste-89dd3180a8b1caa9734bf348f0bd9431316cd876.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "sW;w&V(j==",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co dělá operace na fuzzy množině: koncentrace ?",
+                "- modifikuje fci příslušnosti<div>- snižuje fuzzy neurčitost</div><div>- víc vidíme jádro</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; ostřejší fuzzy množina<br><br>-<br></div><div><img src=\"paste-8defdd517ebe71360afddb1a96b85dc812c87470.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "zU![CN4&xw",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co dělá operace na fuzzy množině:&nbsp;dilatace?",
+                "- modifikuje fci příslušnosti<div>- zvyšuje fuzzy neurčitost</div><div>- viditelnost jádra se snížila</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; plošší fuzzy množina</div><div><img src=\"paste-b23eafa85efd80bebca0f77c71d1a6dc041fe25d.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "E3*CJS%j3o",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "oprace, které modifikují fci příslušnosti (4)",
+                "<div>koncentrace<br></div><div>dilatace</div><div>zúžení&nbsp; - zvýšení kontrastu</div><div>rozšíření</div><img src=\"paste-c348ee51c0e4258565d145d4042a6b763dfa1799.jpg\"><div>zvýšení kontrastu (zúžení):</div><div><img src=\"paste-6c25045580803549bedba6babe7e3768cf6821dd.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "jiF/bx>=QJ",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je zvýšení kontrastu&nbsp; fuzzy množiny? Co způsobuje?",
+                "- zúžení fkce příslušnosti<div>- přiblížení ostré množině</div><div><img src=\"paste-85ece7ada7f83b7eca9caf2e4cbbb889cdebe87a.jpg\"><br></div><div><img src=\"paste-fa7d95842eebbe653aac2b831659c7fd5d218c8c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "eR/(+2gd!k",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak funguje princip rozšíření fuzzy množiny?",
+                "- nepřesně \"rozšíření je aplikace funkce na jednotlivé prvky\"<div><img src=\"paste-fd6e0988a6fd2e1c4cc4ff29c3511a561d0dbb4c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "tC?8jZG:Sy",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je n-ární relace na ostré množině?",
+                "<img src=\"paste-b6efd7ef949f53bf0fca45ef64cd3c7b6ae645dd.jpg\">",
+                ""
+            ],
+            "guid": "uFi,VA9+<_",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak může třeba vypadat fuzzy relace?",
+                "- máme kartézský součin ostrých množin a vyjadřujeme jak moc těmto spojením věříme<div><img src=\"paste-a7efc1ab05b1039ed983e153f4317df8e85db0d2.jpg\"><br></div><div><img src=\"paste-0d5a2cc7a5ea82eea91d63e932fbdbb3e7e500df.jpg\"><br></div><div><img src=\"paste-bb79b6e086a9452ce969a0bade283ccc5a6414e5.jpg\"><br></div><div><br></div>",
+                ""
+            ],
+            "guid": "BP]*3?m6Uc",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak spočítat výšku fuzzy relace?",
+                "<img src=\"paste-d573b2bfde005d23b29213fc83f957ce86fda784.jpg\">",
+                ""
+            ],
+            "guid": "A}NRBknh+>",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je projekce fuzzy relace?",
+                "<img src=\"paste-4460dc97bce9ae70d44ee13aa11329ea96a504a9.jpg\"><div><img src=\"paste-f2c3ea24f04eb2965a4d47fc911ca71c03ab813a.jpg\"><br></div><div><img src=\"paste-af9f98c1c5021b975422b3f6d63214a408de0d6d.jpg\"><br></div><div><br></div>",
+                ""
+            ],
+            "guid": "r?N6j@[_m>",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Projekcí relace R(X,Y) do Y je množina ?<div><img src=\"paste-eb8785695441b4df6e901d69ae4f2a49e79e6e16.jpg\"><br></div>",
+                "B",
+                ""
+            ],
+            "guid": "E.cnxYm9e+",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cylindrickým rozšířením množiny B je?<div><img src=\"paste-c885266f90ad99e14b78b9b71de55e29e1a62290.jpg\"><br></div>",
+                "hranol o podstavě tvořené\nfunkcí příslušnosti množiny B a povrchovými přímkami d, e, h.",
+                ""
+            ],
+            "guid": "ygxIc(4NTE",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je cylindrické rozšíření?",
+                "<img src=\"paste-42f986409509396b8486c190265632df1f729c0b.jpg\"><br><div><img src=\"paste-a26f0e691f81f51cc50d8668607e2e3a0e21b0f8.jpg\"><img src=\"paste-b08406481cb2d22126322cdc1f08cdedcee5cf3c.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "c#k]l+vrxw",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je kompozice relací?",
+                "<img src=\"paste-37de4056614ce5a1d22a21159c68b212c11ee2da.jpg\">",
+                ""
+            ],
+            "guid": "F(d+Vhek$_",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké jsou základní typy kompozic u fuzzy množin?",
+                "<img src=\"paste-25940f3df8cf9d49265e41be7fe903fca358d50d.jpg\">",
+                ""
+            ],
+            "guid": "K6+{PN]hB(",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se spočítá max-min kompozice u fuzzy množin?",
+                "<img src=\"paste-c589a1d0c55737b1a6139ed47c37941f08bffd87.jpg\">",
+                ""
+            ],
+            "guid": "veV#ldns:^",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak počítáme max-product kompozici u fuzzy množin P Q?",
+                "<img src=\"paste-5e1b35646ce95b7d426e797348b67908cbc96675.jpg\">",
+                ""
+            ],
+            "guid": "sX{!:K;$C|",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "model expertízy",
+                "- model dělaný při vývoji zns, fáze analýzy<br>- říká jak budeme získávat znalosti",
+                ""
+            ],
+            "guid": "ejAI7",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je závazek?",
+                "prostředek pro komunikaci multiagentního systému",
+                ""
+            ],
+            "guid": "z__(z.8i[k",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K čemu slouží organizační sktruktura u multiag. systémů?",
+                "slouží jako prostředek pro komunikaci multiagentního systému",
+                ""
+            ],
+            "guid": "g59}<!tca.",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_12_multiagentni_systemy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "princip CART (Classification &amp; Regression Trees)",
+                "rozdělujeme prostor dat na podskupiny<div><br><div><img src=\"paste-430399cf56037cdbaa44feb741bcfb5f9ca8f5e7.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "zk>;&>Bvc4",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "do jedné&nbsp;podskupiny při klasifikaci patří:",
+                "skupiny dat v jedné třídě",
+                ""
+            ],
+            "guid": "Ew;*X/E^!n",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "do jedné&nbsp;podskupiny při regresi patří:",
+                "skupina podobných hodnot",
+                ""
+            ],
+            "guid": "ux3*4!|hGT",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jak fungují klasifikační stromy?",
+                "jako hledání v botanickém klíči<div><img src=\"paste-87d6669c1faf20c37cace4953110f97a9a697142.jpg\"></div><div><br></div><div><img src=\"paste-c8d83584cb0b6b82c105c8c98ce4345bdae9da69.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "CZac{g6M=F",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Regresní stromy (definice, jak vypadá aproximace)",
+                "<img src=\"paste-220d5ab73c24f585237b38795b6ee48e1847c444.jpg\"><div>- odhaduje se spojitá veličina</div><div><img src=\"paste-9f839a7e6f4df49738b7f5cd9b4cd39aaa959a37.jpg\"><br><div><img src=\"paste-df0b5bdf3390e3a9f5de010a3c68ac2587677a3f.jpg\"><br></div></div>",
+                ""
+            ],
+            "guid": "GYpk*)mN=6",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak vypadá graf aproximovaný pomocí regresního stromu?",
+                "je „schodovitý“<div><img src=\"paste-f3409614115542cae91479a5447fe14e2cf86e7d.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "mUp!6^:0!(",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "C&amp;RT strom je binarni? Co se děje se spojitými veličinami?",
+                "<div>ANO, diskretizují se</div>",
+                ""
+            ],
+            "guid": "jJt6=/>{H5",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak se vytváří CART strom?",
+                "„hladovým“ způsobem\"<div>v každém\nkroku se úplným prohledáním najde ta proměnná a takový\ndělicí bod, které přinesou okamžité (aktulně) nejvyšší zlepšení\nklasifikace nebo regrese</div><div><br></div><div><img src=\"paste-0f873a4eb199affb81c00b9a98af65a4ab466afc.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "u~/vENPF&3",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Snažíme se, aby ________ byl minimální u&nbsp;regresních stromů&nbsp;",
+                "&nbsp;reziduální součet čtverců",
+                ""
+            ],
+            "guid": "g#`!$4.LMd",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Snažíme se, aby ________ byly minimální u&nbsp;klasifikačních stromů (3 nebo)",
+                "procento chybné klasifikace, Gini index nebo vzájemná entropie",
+                ""
+            ],
+            "guid": "i]dk@u$H3W",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GC&amp;RT co je to?",
+                "zobecnění CART<div><img src=\"paste-c050e5a75c35945b91e2bbf3baca8ec9ff73de94.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "cI#i]WVa<)",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "přestnost a strukturu stromu můžeme ovlivňovat pomocí:",
+                "<img src=\"paste-ccc79210453aa09de55d7d5e69d9b50f0a970855.jpg\">",
+                ""
+            ],
+            "guid": "oX`B@c.VAy",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Cenová matice GCART<br></div>",
+                "můžeme pomocí&nbsp;ní&nbsp;ovlivňovat přestnost a strukturu stromu&nbsp;<div><br><div><img src=\"paste-0a3fbcc03fd636ebbe64d5d25993ba9bea780266.jpg\"><br></div></div>",
+                "<img src=\"paste-faa9b2f88696d627cf3a2b73c7e4d3a2f5efea28.jpg\">"
+            ],
+            "guid": "Q%sA,A=|^{",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Giniho index v GCART",
+                "<img src=\"paste-8423f6ad664bb0aa4ec8d1fa64fbe39a59435034.jpg\">",
+                ""
+            ],
+            "guid": "jUg4Y&C^HN",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a ____ kategorie //CART",
+                "jedna",
+                ""
+            ],
+            "guid": "Qrf:Y#6t<#",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a _______ kategorií //CART",
+                "stejnoměrně vzory všech",
+                ""
+            ],
+            "guid": "P~TYP9r18S",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je entropie?",
+                "<h2>•&nbsp;míra neurčitosti/neuspořádanosti náhodného&nbsp;<a href=\"https://slovnik-cizich-slov.abz.cz/web.php/slovo/proces\">procesu</a></h2>",
+                ""
+            ],
+            "guid": "q??*}ndmWL",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zastavovací pravidla růstu CART",
+                "<img src=\"paste-74feb978ee8b6282d4105e79eace18b2199fe67b.jpg\"><div><img src=\"paste-db3d5eb009412d3fb7f77dd3a970be10b56de7ee.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "mU08s.@:6c",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K čemu slouží Náhradní proměnné (surrogates) CART",
+                "<img src=\"paste-50e4a7b3381e70ee7c4bb9ba98e968f73c16925b.jpg\">",
+                ""
+            ],
+            "guid": "v0TW,Ma,g,",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metody reprezentace znalostí (6)",
+                "&nbsp; Predikátová logika<div>&nbsp; Sémantické sítě</div><div>&nbsp; Bayesovské sítě</div><div>&nbsp; Rámce (objekty)</div><div>&nbsp; Pravidla</div><div>&nbsp; Případy</div>",
+                ""
+            ],
+            "guid": "v%E$fEu!y.",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sémantická síť vs rámce",
+                "<div><div>SS - hrany vztahy, vrcholy objekty</div><div>rámce - dědičnost + atributy</div></div><div><br></div><img src=\"paste-c9bf02ef6813aaa2a29838ef433bafd351f77fc1.jpg\"><div><br></div><div><img src=\"paste-c8eac63d8fed62296cb04e53af159c3cf121e01b.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "fF(v#wb5t,",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "typy tvrzení v pravidlech (3)",
+                "<img src=\"paste-7550d2f4040254eaedc06ac3cfe0e777fd96f9bd.jpg\">",
+                ""
+            ],
+            "guid": "B.oUgE$x.n",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak jsou realizovány základní operátory fuzzy logiky? (and, or, not)",
+                "<img src=\"paste-9379f8b1b4fa3a9ec827e8a7f585818e1c30bd2f.jpg\">",
+                ""
+            ],
+            "guid": "q_3NqymJ<2",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"background-color: rgb(250, 249, 248);\">Maxmin kompozice matic R*S</span></div><div><img src=\"paste-47257321db2e01ea2c7e076963dd6cf1521017d1.jpg\"><span style=\"background-color: rgb(250, 249, 248);\"><br></span></div>",
+                "<img src=\"paste-01693d165e48c2f8195d321e5a9ed5c48ba1c4bc.jpg\">",
+                ""
+            ],
+            "guid": "Lj&FD%LP;a",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Max product kompozice R*S<div><img src=\"paste-a927c9bb92a68da61c1e8b3dc96536258a5e8d4d.jpg\"><br></div>",
+                "<img src=\"paste-e4a70afbf02e08784d83a2a61d43ae14d2b93e7b.jpg\">",
+                ""
+            ],
+            "guid": "Hn?1<8-41^",
+            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "tags": [
+                "zns_07_je_fajn_byt_fuzzy"
+            ]
+        }
+    ]
+}
