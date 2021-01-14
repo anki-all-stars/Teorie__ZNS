@@ -113,6 +113,7 @@
         "paste-4bbbfdd73b1a152f7e47639ea03d4aa2b927bb87.jpg",
         "paste-4c633678413a2089b195ada1aad977cb2bb6b56e.jpg",
         "paste-4d2e40d332176f7bde32315cd1bfe001e4164a96.jpg",
+        "paste-509158cb458138f80906548c8e95c9c840856e03.jpg",
         "paste-50d73a28d4c52c6146ad37ca651180e0e2e06bb0.jpg",
         "paste-50e4a7b3381e70ee7c4bb9ba98e968f73c16925b.jpg",
         "paste-513c3032241c10e5903a53dbd809277b4b35154a.jpg",
@@ -960,7 +961,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Jaký typ programování užívá prolog",
+                "Jaký typ programování užívá Prolog?",
                 "<b>deklarativní</b><div>logický, procedurální (procedury - predikáty)</div>",
                 ""
             ],
@@ -1688,8 +1689,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Podle způsobu adresace zpráv u&nbsp;multiagentního systému můžeme metody přímé\nkomunikace rozdělit na",
-                "<img src=\"paste-b46eb87235da63d1a03bcb1066019e80d985e3b8.jpg\">",
+                "Podle způsobu adresace zpráv u&nbsp;multiagentního systému můžeme metody přímé<br>komunikace rozdělit na",
+                "- adresné<br>- všesměrné<br>- selektivní<br><br><img src=\"paste-b46eb87235da63d1a03bcb1066019e80d985e3b8.jpg\">",
                 ""
             ],
             "guid": "DT0gHUDL[B",
@@ -2619,7 +2620,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a {{c1::stejnoměrně vzory všech}}&nbsp;kategorií //CART",
+                "GI = Max (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a {{c1::stejnoměrně vzory všech}}&nbsp;kategorií //CART",
                 ""
             ],
             "guid": "P~TYP9r18S",
@@ -2743,6 +2744,18 @@
             "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
             "tags": [
                 "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pro jaké úlohy se používá random forest?",
+                "- Pro klasifikační i regresní úlohy<div><br><div><img src=\"paste-509158cb458138f80906548c8e95c9c840856e03.jpg\"><br></div></div>"
+            ],
+            "guid": "Jxz=adL^-v",
+            "note_model_uuid": "21734066-5651-11eb-83df-18568008bd2a",
+            "tags": [
+                "zns_09_klasifikacni_a_regresni_stromecky"
             ]
         },
         {
