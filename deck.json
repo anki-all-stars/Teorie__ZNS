@@ -80,7 +80,6 @@
         "paste-220d5ab73c24f585237b38795b6ee48e1847c444.jpg",
         "paste-23ec4632e6d5e00522b109d559b1c88f30ccf592.jpg",
         "paste-24a5533f77c8c28d031d7fc84a97005433114c80.jpg",
-        "paste-2570c38495d67dd2c12902ac07780e11f26f756d.jpg",
         "paste-25940f3df8cf9d49265e41be7fe903fca358d50d.jpg",
         "paste-28f44efdf0357d045ee48d8ab1f2535b78a76924.jpg",
         "paste-2af7783374fe89bd104efff8d4f323b714b3312e.jpg",
@@ -241,7 +240,6 @@
         "paste-e97bb0dd85414c8aa65dc178584ab91dd4297da4.jpg",
         "paste-eb8785695441b4df6e901d69ae4f2a49e79e6e16.jpg",
         "paste-ecda85f4e90bdc3e24c49c136decbf5725941374.jpg",
-        "paste-ed53a784e64862fb68c08b24b81f38e3a7809ea0.jpg",
         "paste-eeae85f6c630a67c91878a0e007bd8e1a05542fa.jpg",
         "paste-eef1ae3951d8068a3301b4b51730c68564813b0d.jpg",
         "paste-f05be9e0a1a5b3b3acf0e1acd06156a2441d91a7.jpg",
@@ -253,7 +251,6 @@
         "paste-f7c63834fe35e647eeef6bb84bb371d599e27f61.jpg",
         "paste-fa7d95842eebbe653aac2b831659c7fd5d218c8c.jpg",
         "paste-faa9b2f88696d627cf3a2b73c7e4d3a2f5efea28.jpg",
-        "paste-fb1394ea15c4d30703cc99a12bd1d144a7bae56f.jpg",
         "paste-fb2be55228bb4be8aabfe415ed8e5a7f98818cba.jpg",
         "paste-fb4f9beb57b4fbd8dfbc20059cf47dbae00e63d9.jpg",
         "paste-fd6e0988a6fd2e1c4cc4ff29c3511a561d0dbb4c.jpg",
@@ -315,7 +312,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zns_07_je_fajn_byt_fuzzy"
+                "zns_03_metody_interference"
             ],
             "tmpls": [
                 {
@@ -339,6 +336,114 @@
                     "name": "Reverse",
                     "ord": 1,
                     "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "21734066-5651-11eb-83df-18568008bd2a",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0
@@ -856,7 +961,7 @@
             "__type__": "Note",
             "fields": [
                 "Jaký typ programování užívá prolog",
-                "deklarativní, logický, procedurální (procedury - predikáty)",
+                "<b>deklarativní</b><div>logický, procedurální (procedury - predikáty)</div>",
                 ""
             ],
             "guid": "vRD.3aABg(",
@@ -938,19 +1043,6 @@
                 ""
             ],
             "guid": "zizyfwh^&q",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
-            "tags": [
-                "zns_04_tvorba_znalosti_zns"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Co je rychlé prototypování?",
-                "<img src=\"paste-2570c38495d67dd2c12902ac07780e11f26f756d.jpg\">",
-                ""
-            ],
-            "guid": "n:SR]5dlwJ",
             "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
             "tags": [
                 "zns_04_tvorba_znalosti_zns"
@@ -1168,7 +1260,7 @@
             "__type__": "Note",
             "fields": [
                 "Jaké jsou přístupy ke zpracování neurčitosti? ( přístupy založené na ...) (2)",
-                "<div>- ad hoc modely</div><div>- teoreticke principy</div><div><br></div><img src=\"paste-eef1ae3951d8068a3301b4b51730c68564813b0d.jpg\">",
+                "<div>- ad hoc modelech</div><div>- teoretických principech</div><div><br></div><img src=\"paste-eef1ae3951d8068a3301b4b51730c68564813b0d.jpg\">",
                 ""
             ],
             "guid": "iJu67sEc_A",
@@ -1180,7 +1272,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Jak vypadá Bayesův vzorec?",
+                "Jak vypadá Bayesův vzorec? Slouží na výpočet aposteriorní pravděpodobnosti",
                 "<img src=\"paste-93ca6f8e70c3319306a4b425a214de3018967179.jpg\">",
                 ""
             ],
@@ -1258,19 +1350,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Mějme pravidla E1 → H, E2 → H, … , En → H pro BS. Pak\naposteriorní šance při nezávislosti předpokladů\n(evidencí) Ei se vypočte podle vztahu:",
-                "<img src=\"paste-fb1394ea15c4d30703cc99a12bd1d144a7bae56f.jpg\">",
-                ""
-            ],
-            "guid": "ho_8hUL3;)",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
-            "tags": [
-                "zns_05_neurcitost"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Jaké jsou výhody a nevýhody BS?",
                 "<img src=\"paste-91f3a38fbac8f6c880ba6f9d83f780108692d321.jpg\">",
                 ""
@@ -1328,19 +1407,6 @@
                 ""
             ],
             "guid": "n^PBR~Vce*",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
-            "tags": [
-                "zns_05_neurcitost"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Mějme pravidla E1 → H, E2 → H, … , En → H (užíváme faktor jistoty). Označme\nCFn = CF(H, E1\n, …, En\n). Výpočet CFn se provede podle\nnásledujícího vzorce:",
-                "<img src=\"paste-ed53a784e64862fb68c08b24b81f38e3a7809ea0.jpg\">",
-                ""
-            ],
-            "guid": "yOf{H_g1&k",
             "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
             "tags": [
                 "zns_05_neurcitost"
@@ -1597,7 +1663,7 @@
             "__type__": "Note",
             "fields": [
                 "Jaké jsou typické prostředky pro koordinaci u multiagentního systému? (tj čím se agenti zvazují a kde jsou dána pravidla pro poručení závazku?)",
-                " závazek - čin, který má agent udělat smlouva - pravidla za kterých může úlohu udělat/opustit<br><div><img src=\"paste-b33df36297cbef788672c2efe818244ef2f2e222.jpg\"><br></div>",
+                " závazek - čin, který má agent udělat&nbsp;<div>smlouva - pravidla za kterých může úlohu udělat/opustit<br><div><img src=\"paste-b33df36297cbef788672c2efe818244ef2f2e222.jpg\"><br></div></div>",
                 ""
             ],
             "guid": "QLLVw3X9R2",
@@ -2376,12 +2442,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "do jedné&nbsp;podskupiny při klasifikaci patří:",
-                "skupiny dat v jedné třídě",
+                "Do jedné&nbsp;podskupiny při klasifikaci patří {{c1::skupiny dat v jedné třídě}}",
                 ""
             ],
             "guid": "Ew;*X/E^!n",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
             "tags": [
                 "zns_09_klasifikacni_a_regresni_stromecky"
             ]
@@ -2389,12 +2454,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "do jedné&nbsp;podskupiny při regresi patří:",
-                "skupina podobných hodnot",
+                "do jedné&nbsp;podskupiny při regresi patří {{c1::skupina podobných hodnot}}",
                 ""
             ],
             "guid": "ux3*4!|hGT",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
             "tags": [
                 "zns_09_klasifikacni_a_regresni_stromecky"
             ]
@@ -2467,12 +2531,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "Snažíme se, aby ________ byl minimální u&nbsp;regresních stromů&nbsp;",
-                "&nbsp;reziduální součet čtverců",
-                ""
+                "Snažíme se, aby {{c1::reziduální součet čtverců}}&nbsp;byl minimální u&nbsp;regresních stromů&nbsp;",
+                "&nbsp;"
             ],
             "guid": "g#`!$4.LMd",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
             "tags": [
                 "zns_09_klasifikacni_a_regresni_stromecky"
             ]
@@ -2480,12 +2543,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "Snažíme se, aby ________ byly minimální u&nbsp;klasifikačních stromů (3 nebo)",
-                "procento chybné klasifikace, Gini index nebo vzájemná entropie",
+                "Snažíme se, aby {{c1::procento chybné klasifikace, Gini index nebo vzájemná entropie}}&nbsp;byly minimální u&nbsp;klasifikačních stromů (3 nebo)",
                 ""
             ],
             "guid": "i]dk@u$H3W",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
             "tags": [
                 "zns_09_klasifikacni_a_regresni_stromecky"
             ]
@@ -2545,12 +2607,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a ____ kategorie //CART",
-                "jedna",
+                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a {{c1::jedna}} kategorie //CART",
                 ""
             ],
             "guid": "Qrf:Y#6t<#",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
             "tags": [
                 "zns_09_klasifikacni_a_regresni_stromecky"
             ]
@@ -2558,12 +2619,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a _______ kategorií //CART",
-                "stejnoměrně vzory všech",
+                "GI = 0 (Giniho index „nečistoty“ uzlu) -&gt; jsou/je zastoupeny/a {{c1::stejnoměrně vzory všech}}&nbsp;kategorií //CART",
                 ""
             ],
             "guid": "P~TYP9r18S",
-            "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
             "tags": [
                 "zns_09_klasifikacni_a_regresni_stromecky"
             ]
@@ -2572,7 +2632,7 @@
             "__type__": "Note",
             "fields": [
                 "Co je entropie?",
-                "<h2>•&nbsp;míra neurčitosti/neuspořádanosti náhodného&nbsp;<a href=\"https://slovnik-cizich-slov.abz.cz/web.php/slovo/proces\">procesu</a></h2>",
+                "míra neurčitost/neuspořádanosti nějakého procesu",
                 ""
             ],
             "guid": "q??*}ndmWL",
@@ -2683,6 +2743,54 @@
             "note_model_uuid": "eec5a4e4-558a-11eb-83db-18568008bd2a",
             "tags": [
                 "zns_07_je_fajn_byt_fuzzy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pro hlubokou bázi znalostí, která má méně cílů je\nvhodnější {{c1::zpětné}} řetězení",
+                ""
+            ],
+            "guid": "gWHUBX^n`z",
+            "note_model_uuid": "2172cc08-5651-11eb-bae8-18568008bd2a",
+            "tags": [
+                "zns_03_metody_interference"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je rychlé prototypování (rapid prototyping)? Kdy se používá?",
+                "= zkouška zda daný systém má šanci fungovat<div>- prototyp se dále už rozšiřovat nebude</div><div>-&nbsp; systém se pak bude tvořit od začátku</div>"
+            ],
+            "guid": "orosj;?ur$",
+            "note_model_uuid": "21734066-5651-11eb-83df-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je Hornova klauzule? (MLO)",
+                "Klauzule, co obsahuje maximálně&nbsp; pozitivní☺ literál<div>např (notA, notB, C)</div>"
+            ],
+            "guid": "N0ib=zBa^S",
+            "note_model_uuid": "21734066-5651-11eb-83df-18568008bd2a",
+            "tags": [
+                "zns_02_casti_typy_zns"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co je raport?",
+                "výraz pro cítit se příjemně"
+            ],
+            "guid": "uPi.;yl9]n",
+            "note_model_uuid": "21734066-5651-11eb-83df-18568008bd2a",
+            "tags": [
+                "zns_04_tvorba_znalosti_zns"
             ]
         }
     ]
